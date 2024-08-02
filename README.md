@@ -3,8 +3,6 @@
 ### By
 Seyed MohammadAmin Taleghani
 
-### Date
-July 2021
 
 ## Table of Contents
 1. [Description of the Developed Code](#description-of-the-developed-code)
